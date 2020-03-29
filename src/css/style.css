@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+div{
+    margin:5px;
+    padding:5px;
+}
+
+.media{
+    background-color: #b3b3b3;
+}
+
+.cont{
+    background-color: #cccccc;
+}
+
+.size{
+    background-color: #ffff9a;
+}
+
+/*#desktop, #tablet{
+    display:none;
+}*/

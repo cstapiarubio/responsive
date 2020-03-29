@@ -1,0 +1,42 @@
+@media only screen and (max-width:480px) {
+
+    /*#phone{
+        display:block;
+    }*/
+    
+    #tablet{
+        display:none;
+    }
+
+    #desktop{
+        display:none;
+    }
+}
+
+@media only screen and (min-width:481px) and (max-width:1023px) {
+
+    /*#tablet{
+        display:block;
+    }*/
+    #desktop{
+        display:none;
+    }
+
+    #phone{
+        display:none;
+    }
+}
+
+@media only screen and (min-width:1024px) {
+
+   /*#desktop{
+        display:block;
+    }*/
+    #tablet{
+        display:none;
+    }
+
+    #phone{
+        display:none;
+    }
+}
